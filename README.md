@@ -12,9 +12,9 @@ Ce projet utilise **OpenCV** et **MediaPipe** pour détecter les visages et les 
 - [Contributions](#contributions)
 
 ## Prérequis
-- [![CLIQUE POUR INSTALL - Python 3.6 ou supérieur](https://img.shields.io/badge/Python%203.6+-Télécharger-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
-- [![CLIQUE POUR INSTALL - pip](https://img.shields.io/badge/pip-Gestionnaire%20de%20paquets-9cf?style=for-the-badge&logo=pypi&logoColor=white)](https://pip.pypa.io/en/stable/installation/)
-- [![CLIQUE POUR INSTALL - venv](https://img.shields.io/badge/venv-Environnement%20virtuel-4CAF50?style=for-the-badge)](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/)
+- [![ CLIQUE POUR INSTALL - Python 3.6 ou supérieur](https://img.shields.io/badge/Python%203.6+-Télécharger-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
+- [![ CLIQUE POUR INSTALL - pip](https://img.shields.io/badge/pip-Gestionnaire%20de%20paquets-9cf?style=for-the-badge&logo=pypi&logoColor=white)](https://pip.pypa.io/en/stable/installation/)
+- [![ CLIQUE POUR INSTALL - venv](https://img.shields.io/badge/venv-Environnement%20virtuel-4CAF50?style=for-the-badge)](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/)
 
 ## Installation For Linux ( if you are Windows User ... Need To find how to install alternative ...
 

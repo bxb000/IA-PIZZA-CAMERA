@@ -1,5 +1,5 @@
 
-# Projet de Détection de Visage et de Main
+# YOU ARE GIRL ? ADD ME (438) 454 2281-1
 
 Ce projet utilise **OpenCV** et **MediaPipe** pour détecter les visages et les mains à partir du flux vidéo d'une webcam. Il permet également de capturer des captures d'écran à la demande.
 

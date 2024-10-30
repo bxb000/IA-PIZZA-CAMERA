@@ -12,13 +12,11 @@ Ce projet utilise **OpenCV** et **MediaPipe** pour détecter les visages et les 
 - [Contributions](#contributions)
 
 ## Prérequis
+- [![CLIQUE POUR INSTALL - Python 3.6 ou supérieur](https://img.shields.io/badge/Python%203.6+-Télécharger-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
+- [![CLIQUE POUR INSTALL - pip](https://img.shields.io/badge/pip-Gestionnaire%20de%20paquets-9cf?style=for-the-badge&logo=pypi&logoColor=white)](https://pip.pypa.io/en/stable/installation/)
+- [![CLIQUE POUR INSTALL - venv](https://img.shields.io/badge/venv-Environnement%20virtuel-4CAF50?style=for-the-badge)](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/)
 
-Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
-- **Python 3.6** ou supérieur
-- **pip** (gestionnaire de paquets pour Python)
-- **venv** (pour créer un environnement virtuel)
-
-## Installation
+## Installation For Linux ( if you are Windows User ... Need To find how to install alternative ...
 
 1. **Installer venv sur Linux :**
 
@@ -27,14 +25,14 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
    sudo apt install python3 python3-venv
    ```
 
-2. **Clonez le dépôt :**
+2. **Clonez le dépôt using git :**
 
    ```bash
    git clone https://github.com/bxb000/IA-PIZZA-CAMERA.git
    cd IA-PIZZA-CAMERA
    ```
 
-3. **Créez et activez l'environnement virtuel :**
+3. **Créez et activez l'environnement virtuel for linux only :**
 
    ```bash
    python3 -m venv venv
